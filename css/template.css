@@ -48,7 +48,7 @@ body {
 }
 
 .back {
-    background: cornflowerblue;
+    background: rgb(230, 214, 193);
     /* flip it default   */
     transform: rotateY(180deg);
 }
