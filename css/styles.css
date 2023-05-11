@@ -59,6 +59,15 @@ body {
 .flipped {
     transform: rotateY(180deg);
 }
+/* Start of My Design */
+.front img {
+    width:100%;
+}
+
+
+
+
+
 
 /* Media Query for Mobile */
 @media only screen and (max-width: 30em){ 
